@@ -4,7 +4,7 @@ In this project, I was given static image-based data of facial expressions from 
 Using this data, I analyzed the facial action units (UA), and input AUs into a gaussian mixture model (GMM) which is a soft clustering algorithm.
 Optimally, 8 clusters were found, each determining a distinct mood for Pheobe. An example of clusters can be seen below. 
 
-[](mood_clusters.png)
+[img](mood_clusters.png)
 
 First, we see happy (high activation) in purple, next to excitement/surprise in red.
 I hypothesized two clusters sharing a border will share similar emotional states. 
