@@ -4,7 +4,7 @@ This project was completed during the "Special Topics in Artificial Intelligence
 http://www.sfu.ca/outlines.html?2020/summer/cmpt/419/d100
 
 In this project, I was given static image-based data of facial expressions from Phoebe Buffay from the T.V. show, Friends. 
-Using this data, I analyzed the facial action units (UA), and input AUs into a gaussian mixture model (GMM) which is a soft clustering algorithm.
+Using this data, I analyzed the facial action units (AU), and input AUs into a gaussian mixture model (GMM) which is a soft clustering algorithm.
 Optimally, 8 clusters were found, each determining a distinct mood for Pheobe. An example of clusters can be seen below. 
 
 ![](mood_clusters.png)
