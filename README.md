@@ -20,4 +20,4 @@ Green is upset/anger, and light orange is disgust.
 
 It is interesting to see happiness (high activation) at one end of data cluster, and upset, disgust, fear, and sadness at the other end.
 
-Please see the project report in [a2.ipynb](https://github.com/compSciKai/cmpt419-special-topics-ai-clustering-and-visualization-phoebe/blob/master/a2.ipynb)
+Please see the project report in [a2.ipynb](https://github.com/compSciKai/cmpt419-special-topics-ai-clustering-and-visualization-phoebe/blob/master/a2.ipynb) (Takes a few seconds to render in the browser. Press 'reload' if does not render on first try.)
