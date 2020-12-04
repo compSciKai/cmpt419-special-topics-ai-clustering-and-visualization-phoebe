@@ -14,8 +14,8 @@ I hypothesized two clusters sharing a border will share similar emotional states
 Using the first two emotions as an example, happiness is quite similar to excitement/surprise.
 In yellow is sadness, bluish green is happy (low activation)/embarassment. 
 Embarassment can might be linked to sadness, and might be similar to excitement in red.
-Lime green is contempt, maybe linking with embarassment and excitement at borders, and orange being fear/neutral expressions. F
-ear/Neutral seems link a strange mix, we could call it low activation fear.
+Lime green is contempt, maybe linking with embarassment and excitement at borders, and orange being fear/neutral expressions. Fear/Neutral 
+seems link a strange mix, we could call it low activation fear.
 Green is upset/anger, and light orange is disgust.
 
 It is interesting to see happiness (high activation) at one end of data cluster, and upset, disgust, fear, and sadness at the other end.
